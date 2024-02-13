@@ -1,0 +1,3 @@
+C:/Users/Sayed/Downloads/Personal Files/Learn ++c/c++ Mostafa Saad/Programs/Meduim to large Projects/1- LibrarySystem/cmake-build-debug/CMakeFiles/1__LibrarySystem.dir
+C:/Users/Sayed/Downloads/Personal Files/Learn ++c/c++ Mostafa Saad/Programs/Meduim to large Projects/1- LibrarySystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sayed/Downloads/Personal Files/Learn ++c/c++ Mostafa Saad/Programs/Meduim to large Projects/1- LibrarySystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
